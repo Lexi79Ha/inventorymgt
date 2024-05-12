@@ -148,5 +148,5 @@ J.  Validate the user input to prevent the following four conditions:
 
 <h2>Next Steps</h2>
 
-<h3> The current version of this program is based on the requirements of a school project for a C# course, and it utilizes class lists to temporarily save user inputs/updates during each session<br>
+<h3> The current version of this program is based on the requirements of my project for a C# course at WGu, and it utilizes class lists to temporarily save user inputs/updates during each session<br>
 of the program. I would like to eventually expand upon this project and tie the program to a database so that user inputs/updates can be saved to the database.</h3>
